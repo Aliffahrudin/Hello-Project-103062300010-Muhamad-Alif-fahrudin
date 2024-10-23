@@ -1,3 +1,5 @@
+// Tugas remote Struktur Data
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
